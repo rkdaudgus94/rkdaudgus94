@@ -17,9 +17,15 @@ Naver: rkdaudgus94@naver.com Gmail: rkdaudgus2650@gmail.com
 <br>
 <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=black">
+<img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=black">
+
+
 <br>
 <img src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 <img src="https://img.shields.io/badge/JetsonNano-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+
+
 
 <div align=center><h1>🏃🏻 Studying</h1></div>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
