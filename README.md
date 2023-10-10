@@ -42,24 +42,20 @@ Naver: rkdaudgus94@naver.com Gmail: rkdaudgus2650@gmail.com
 - (2023.07~) 디지털스마트아카데미 AI & 빅데이터
 
 
-## Make List 🧑🏻‍💻
+## Make List 🔨
 - VHDL clock system
 - MPPT Management Applicaiton
 - Random operation dice
 - Port stevedoring safety management system
 - Auto driving robot(ing)
 
+## Status 📶
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=rkdaudgus94&show_icons=true&theme=dark" style="width: 400px; height: 200px;">
+                               
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkdaudgus94&layout=compact&theme=dark" style="width: 400px; height: 200px;">
 </div>
-<br>
-</div>
-<div align = "center">
-  
-  <td>
-    
-  </td>
-  <td>
-    [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkdaudgus94&show_icons=true&theme=radical)
-  </td>
-  
-</div>
+
+
+
