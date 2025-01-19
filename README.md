@@ -6,7 +6,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frkdaudgus94&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 E-MAIL<br/>
-Naver: rkdaudgus94@naver.com Gmail: rkdaudgus2650@gmail.com
+Email : rkdaudgus94@pusan.ac.kr
 <br>
 <div align=center><h1>📚 STACKS</h1></div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -46,6 +46,7 @@ Naver: rkdaudgus94@naver.com Gmail: rkdaudgus2650@gmail.com
 - (2022.06~2023.09) 전자공학과 제어시스템공학 연구실
 - (2022.12~) U&I 전기차 배터리 시스템 관리 연구 및 개발 (Application)
 - (2023.07~) 디지털스마트아카데미 AI & 빅데이터
+- (2024.02~) 부산대학교 지능통신연구실
 
 
 ## Make List 🔨
